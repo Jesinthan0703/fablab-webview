@@ -9,7 +9,7 @@ export default function Index() {
     <SafeAreaProvider>
       <SafeAreaView style={{ flex: 1 }} forceInset={{ top: "always" }}>
         <View style={{ flex: 1 }}>
-          <WebView source={{ uri: "http://192.168.137.106:3000/" }} />
+          <WebView source={{ uri: "http://61.16.128.190:49174/" }} />
         </View>
       </SafeAreaView>
     </SafeAreaProvider>
